@@ -1,9 +1,9 @@
 # Site settings
-title: 小石不识月
+title: Shiyanping's Blog
 SEOTitle: 燕平的博客·Fighting
 header-img: img/bg/bg_index.jpg
 email: 594388036@qq.com
-description: "石燕平的个人博客，用于记录学习笔记，写一些日常所学文章和生活纪实"
+description: "石燕平的个人博客，用于记录学习笔记，写一些日常所学文章和生活纪实，内容大概包括前端涉及到的知识，其中有前端基础，后端知识，Linux上的知识"
 keyword: "JavaScript，前端个人博客，随笔"
 url: "http://Shiyanping.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
