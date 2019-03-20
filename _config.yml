@@ -1,11 +1,11 @@
 # Site settings
 title: 小石不识月
-SEOTitle: Xs-HuxBlog
+SEOTitle: 燕平的博客·Fighting
 header-img: img/bg/bg_index.jpg
 email: 594388036@qq.com
 description: "石燕平的个人博客，用于记录学习笔记，写一些日常所学文章和生活纪实"
-keyword: "JavaScript，前端个人博客"
-url: "http://jsksxs360.github.io"              # your host, for absolute URL
+keyword: "JavaScript，前端个人博客，随笔"
+url: "http://Shiyanping.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
@@ -17,7 +17,7 @@ github_username: Shiyanping
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md","CNAME",".gitignore"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 # Plugins
@@ -32,15 +32,15 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 # Baidu Share
-bd_share: true                          # whether or not using baidu share
+bd_share: false                          # whether or not using baidu share
 
 # Livere
 labili: false                           # whether or not using Livere
-labili_uid: MTAyMC80MjI1Ny8xODgwNA==    # data uid
+labili_uid: MTAyMC8zNjgwNS8xMzM0MQ==    # data uid
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 07529a93af5fa9f808261a1318c3aba4
+ba_track_id: 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.

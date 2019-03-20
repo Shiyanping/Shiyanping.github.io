@@ -1,10 +1,14 @@
 ---
+layout: post
+header-img: 'img/bg/hello_world.jpg'
+author: 'Shiyanping'
 title: CSS HTML基础
+subtitle: 前端基础
+catalog: true
 date: 2018-02-20 10:20:43
 tags:
   - CSS
   - HTML
-categories: 技术
 ---
 
 这篇文章主要是说一些前端 css 和 html 的面试题的，有具体想知道 css 和 html 基础的，其实可以从网上百度，一搜一大片，可以去 W3C 看看，讲的还不错

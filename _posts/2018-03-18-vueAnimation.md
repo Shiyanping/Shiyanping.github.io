@@ -1,8 +1,12 @@
 ---
-title: vue中添加动画
+layout: post
+header-img: 'img/bg/hello_world.jpg'
+author: 'Shiyanping'
+title: Vue 中添加动画
+subtitle: 深入浅出 Vue 系列
+catalog: true
 date: 2018-03-18 15:10:27
-tags: vue
-categories: 技术
+tags: Vue
 ---
 
 vue 中的动画主要依靠`transition`这个控件，关于 transition 这个 api 可以上官网查看[vue 中的 transition ](https://cn.vuejs.org/v2/api/#transition)，其中还有用到 animate.css 和 Velocity.js

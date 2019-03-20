@@ -1,9 +1,13 @@
 ---
+layout: post
+header-img: 'img/bg/hello_world.jpg'
+author: 'Shiyanping'
 title: 页面加载、性能优化、XSS攻击
+subtitle: 增加前端内功
+catalog: true
 date: 2018-04-21 21:32:53
 tags:
-  - 前端性能优化
-categories: 技术
+  - 性能优化
 ---
 
 **介绍一下页面加载，性能优化，及简单的 web 前端攻击的知识，只是简单的介绍昂，不喜勿喷

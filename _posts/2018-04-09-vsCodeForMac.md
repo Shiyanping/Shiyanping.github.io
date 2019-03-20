@@ -1,8 +1,13 @@
 ---
+layout: post
+header-img: 'img/bg/hello_world.jpg'
+author: 'Shiyanping'
 title: VSCode常用快捷键及插件（Mac版）
+subtitle: 帮助我们更快编码
+catalog: true
 date: 2018-04-09 19:16:11
-tags: VSCode
-categories: 工具
+tags: 
+  - 工具
 ---
 
 一款顺手的编辑器能让编码的效率大大提升，懂一些编辑器的快捷键，用的顺手了基本都可以脱离鼠标去编码，效率提升的更多，编码更快，因为我平时使用的电脑是 mac，编辑器是 VSCode，所以就搜集了一些自己经常用的快捷键和插件，用起来那叫一个爽，给大家分享一下。
