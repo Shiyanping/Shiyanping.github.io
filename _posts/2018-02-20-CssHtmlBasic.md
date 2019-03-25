@@ -1,11 +1,11 @@
 ---
 layout: post
-header-img: 'img/bg/hello_world.jpg'
+header-img: "img/post-bg-css.jpg"
+header-mask: 0.4
 author: 'Shiyanping'
 title: CSS HTML基础
 subtitle: 前端基础
 catalog: true
-date: 2018-02-20 10:20:43
 tags:
   - CSS
   - HTML

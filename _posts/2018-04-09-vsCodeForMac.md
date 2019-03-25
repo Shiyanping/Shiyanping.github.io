@@ -1,11 +1,11 @@
 ---
 layout: post
-header-img: 'img/bg/hello_world.jpg'
+header-img: "img/post-bg-dreamer.jpg"
+header-mask: 0.4
 author: 'Shiyanping'
 title: VSCode常用快捷键及插件（Mac版）
 subtitle: 帮助我们更快编码
 catalog: true
-date: 2018-04-09 19:16:11
 tags: 
   - 工具
 ---

@@ -1,11 +1,11 @@
 ---
 layout: post
-header-img: 'img/bg/hello_world.jpg'
+header-img: "img/post-bg-dreamer.jpg"
+header-mask: 0.4
 author: 'Shiyanping'
 title: Node 爬虫
 subtitle: 简单了解 Node 爬虫
 catalog: true
-date: 2018-10-21
 tags:
   - Node
 ---

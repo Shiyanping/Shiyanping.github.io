@@ -1,11 +1,11 @@
 ---
 layout: post
-header-img: 'img/bg/hello_world.jpg'
+header-img: "img/post-bg-dreamer.jpg"
+header-mask: 0.4
 author: 'Shiyanping'
 title: package.json 使用指南
 subtitle: 让你更了解 package.json
 catalog: true
-date: 2018-10-14
 tags:
   - Node
 ---

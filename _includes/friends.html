@@ -1,0 +1,18 @@
+{% if site.friends %}
+<hr>
+<h5>FRIENDS</h5>
+<ul class="list-inline">
+  {% for friend in site.friends %}
+  <li><a href="{{friend.href}}">{{friend.title}}</a></li>
+  {% endfor %}
+</ul>
+{% endif %}
+{% if site.collection %}
+<hr>
+<h5>COLLECTION</h5>
+<ul class="list-inline">
+  {% for collectionItem in site.collection %}
+  <li><a href="{{collectionItem.href}}">{{collectionItem.title}}</a></li>
+  {% endfor %}
+</ul>
+{% endif %}

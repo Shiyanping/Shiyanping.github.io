@@ -1,11 +1,11 @@
 ---
 layout: post
-header-img: 'img/bg/hello_world.jpg'
+header-img: "img/post-bg-dreamer.jpg"
+header-mask: 0.4
 author: 'Shiyanping'
 title: 大前端必会技能——Node
 subtitle: Node 简单概述及思想
 catalog: true
-date: 2018-10-10
 tags:
   - Node
 ---

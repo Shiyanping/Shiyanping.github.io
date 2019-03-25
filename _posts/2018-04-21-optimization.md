@@ -1,11 +1,11 @@
 ---
 layout: post
-header-img: 'img/bg/hello_world.jpg'
+header-img: "img/post-bg-dreamer.jpg"
+header-mask: 0.4
 author: 'Shiyanping'
 title: 页面加载、性能优化、XSS攻击
 subtitle: 增加前端内功
 catalog: true
-date: 2018-04-21 21:32:53
 tags:
   - 性能优化
 ---

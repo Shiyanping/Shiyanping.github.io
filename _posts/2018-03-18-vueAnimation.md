@@ -1,11 +1,11 @@
 ---
 layout: post
-header-img: 'img/bg/hello_world.jpg'
+header-img: "img/post-bg-dreamer.jpg"
+header-mask: 0.4
 author: 'Shiyanping'
 title: Vue 中添加动画
 subtitle: 深入浅出 Vue 系列
 catalog: true
-date: 2018-03-18 15:10:27
 tags: Vue
 ---
 

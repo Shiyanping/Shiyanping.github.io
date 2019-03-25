@@ -1,11 +1,11 @@
 ---
 layout: post
-header-img: 'img/bg/hello_world.jpg'
+header-img: "img/post-bg-dreamer.jpg"
+header-mask: 0.4
 author: 'Shiyanping'
 title: JavaScript 内功心法——词法作用域及动态作用域
 subtitle: 前端必备内功之词法作用域
 catalog: true
-date: 2018-11-04
 tags:
   - JavaScript
   - JavaScript 内功心法
