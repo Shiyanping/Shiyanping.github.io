@@ -32,8 +32,8 @@ console.log(2);
 
 在取异步队列时，还会有一个区分，就是区分微任务和宏任务。
 
-- microtask：微任务，优先级高，并且可以插队，不是先定义先执行。包括：promise 中的 then，observer，MessageChannel
-- macrotask：宏任务，优先级低，先定义的先执行。包括：ajax，setTimeout，setInterval，事件绑定
+- microtask：微任务，优先级高，并且可以插队，不是先定义先执行。包括：promise 中的 then，observer，MutationObserver，setImmediate
+- macrotask：宏任务，优先级低，先定义的先执行。包括：ajax，setTimeout，setInterval，事件绑定，postMessage，MessageChannel（用于消息通讯）
 
 因为微任务的优先级较高，所以会先将微任务的异步任务取出来进行执行，当微任务的任务都执行完毕之后，会将宏任务中的任务取出来执行。
 
@@ -98,6 +98,6 @@ new Promise(function(reslove) {
 console.log(6);
 ```
 
-输出的结果是：2,3,6,p2,p1,1,4,5。
+输出的结果是：2，3，6，p2，p1，1，4，5。
 
-先执行同步的任务，new Promise 中的都是同步任务，所以先输出 2,3,6，然后再执行微任务的，微任务可以插队，所以并不是先定义的 p1 先执行，而且先将 p2 执行，然后执行 p1，当微任务都执行完成之后，执行宏任务，宏任务依次输出 1,4,5，promise 的状态不可以变更，所以 setTimeout1 和 setTimeout2 不会输出。
+先执行同步的任务，new Promise 中的都是同步任务，所以先输出 2，3，6，然后再执行微任务的，微任务可以插队，所以并不是先定义的 p1 先执行，而且先将 p2 执行，然后执行 p1，当微任务都执行完成之后，执行宏任务，宏任务依次输出 1，4，5，promise 的状态不可以变更，所以 setTimeout1 和 setTimeout2 不会输出。
