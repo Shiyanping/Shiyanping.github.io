@@ -118,5 +118,9 @@ collection: [
     {
         title: "Shiyanping的博客",
         href: "https://www.shiyanping.top/"
+    },
+    {
+        title: "技术胖",
+        href: "http://www.jspang.com/"
     }
 ]
