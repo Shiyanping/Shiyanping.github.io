@@ -13,10 +13,14 @@ future: true
 
 # SNS settings
 RSS: false
-juejin_username: 59c27af36fb9a00a5831832e
-github_username: Shiyanping
-resume_url: https://www.shiyanping.top/resume
-
+weibo_username:     3307915455/profile?topnav=1&wvr=6&is_all=1
+zhihu_username:     曲红强
+github_username:    quhongqiang
+# juejin_username: 59c27af36fb9a00a5831832e
+#twitter_username:   huxpro
+# resume_url: https://www.shiyanping.top/resume
+#facebook_username:  huxpro
+#linkedin_username:  firstname-lastname-idxxxx
 
 
 # Build settings
