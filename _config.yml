@@ -1,11 +1,11 @@
 # Site settings
-title: Shiyanping's Blog
-SEOTitle: 燕平的博客·Fighting
+title: Hongqiang Qu's Blog
+SEOTitle: 曲小强
 header-img: img/home-bg-o.jpg
-email: 594388036@qq.com
-description: "石燕平的个人博客，用于记录学习笔记，写一些日常所学文章和生活纪实，内容大概包括前端，Node，游记，个人感想等。"
-keyword: "石燕平, shiyanping, Shiyanping's, 石燕平的博客, 燕平的博客, 燕平的博客·Fighting, Shiyanping's Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端"
-url: "https://Shiyanping.github.io"              # your host, for absolute URL
+email: 1256618908@qq.com
+description: "个人博客"
+keyword: "曲小强, 曲红强, Hongqiang Qu's, 曲小强的博客, Hongqiang Qu's Blog, 博客, 个人网站, Web, JavaScript, 前端"
+url: "https://quhongqiang.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,14 @@ future: true
 
 # SNS settings
 RSS: false
-juejin_username: 59c27af36fb9a00a5831832e
-github_username: Shiyanping
-resume_url: https://www.shiyanping.top/resume
-
+weibo_username:     3307915455/profile?topnav=1&wvr=6&is_all=1
+zhihu_username:     曲红强
+github_username:    quhongqiang
+juejin_username: 5c47d0856fb9a049af6d989b
+#twitter_username:   huxpro
+#resume_url: https://www.shiyanping.top/resume
+#facebook_username:  huxpro
+#linkedin_username:  firstname-lastname-idxxxx
 
 
 # Build settings
@@ -65,7 +69,7 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+ba_track_id: 8ffcaa321ff3ffff374ca098882846bc
 
 # Google Analytics
 # ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
@@ -75,7 +79,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "业精于勤荒于嬉，行成于思毁于随"
+sidebar-about-description: "你拿浪费的时间,换到了什么~"
 sidebar-avatar: /img/avatar-xs.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -112,7 +116,11 @@ collection: [
         href: "http://www.ruanyifeng.com/blog/"
     },
     {
-        title: "张鑫旭的博客",
-        href: "https://www.zhangxinxu.com/"
+        title: "Shiyanping的博客",
+        href: "https://www.shiyanping.top/"
+    },
+    {
+        title: "技术胖",
+        href: "http://www.jspang.com/"
     }
 ]
